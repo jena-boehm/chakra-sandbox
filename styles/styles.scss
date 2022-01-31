@@ -1,0 +1,24 @@
+.container {
+    height: 100vh;
+
+    .buttons {
+        margin-bottom: 20px;
+    }
+
+    .filter-search {
+        height: 100px;
+        margin: 20px;
+    }
+
+    .form {
+        height: 100px;
+        
+        .dropdown-container {
+            width: 180px;
+
+            .dropdown-select {
+                height: 50px;
+            }
+        }
+    }
+}
